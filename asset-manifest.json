@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Best_user_management_panel/static/css/main.b78f91c3.css",
+    "main.js": "/Best_user_management_panel/static/js/main.f14f64cb.js",
+    "index.html": "/Best_user_management_panel/index.html",
+    "main.b78f91c3.css.map": "/Best_user_management_panel/static/css/main.b78f91c3.css.map",
+    "main.f14f64cb.js.map": "/Best_user_management_panel/static/js/main.f14f64cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78f91c3.css",
+    "static/js/main.f14f64cb.js"
+  ]
+}
