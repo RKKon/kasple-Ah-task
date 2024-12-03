@@ -10,7 +10,7 @@ function App() {
     <div>
       <Layout>
         <Header className="header">
-          <h1>Best user control panel</h1>
+          <h1>Best user management panel</h1>
         </Header>
         <Content style={{ padding: '20px' }}>
           <UsersTable />
